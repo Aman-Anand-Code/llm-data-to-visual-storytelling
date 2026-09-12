@@ -123,19 +123,14 @@ llm-data-to-visual-storytelling/
 ├── assets/
 │   ├── architecture.png
 │   └── example-output.png
-├── notebooks/
-│   └── llm_data_to_visual_storytelling.ipynb
+├── llm_data_to_visual_storytelling.ipynb
 ├── social/
 │   ├── carousel/
 │   └── LLM_Data_Storytelling_Carousel.pptx
 ├── output/
 │   └── pdf/
 │       └── LLM_Data_Storytelling_LinkedIn_Carousel.pdf
-├── .gitignore
-├── GITHUB_PUBLISHING_CHECKLIST.md
-├── LICENSE
 ├── README.md
-├── SOCIAL_POSTS.md
 └── requirements.txt
 ```
 
